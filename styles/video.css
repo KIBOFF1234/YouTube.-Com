@@ -166,4 +166,7 @@
 
     .channel-picture-container:hover .channel-tooltip {
       opacity: 1;
-    }
+    } 
+a{
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    
